@@ -9,6 +9,6 @@ Chatbot predict pretty good answers.
 # Model: Sequence 2 Sequence.
 Loss: .0431 
 Data Source: kaggle
-
+Further improvement is going on!
 
 
