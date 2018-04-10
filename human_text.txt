@@ -1,4 +1,4 @@
-[start]
+/[start]
 oh, thanks !  i'm fine. this is an evening in my timezone
 how do you feel today ?  tell me something about yourself
 how many virtual friends have you got ? 
@@ -2348,16 +2348,4 @@ sorry, but i dont know that series ?  . my favourite series is the big bang theo
 oh cool . hi
 d oyou know bad sobernheim .  ? 
 do you know if there is snow today ? 
-ok thanks !  . what do you do this evening ? 
-ill play lol🙂 can you send me one of your drawings .  ? 
-yes i play trombone and league of legends
-hey, whats up ? 
-fine, and you ? 
-[start] . hola
-[start] . sex
-film sex
-[start] . f
-good
-[start] . м
-[start] . hello
-[document]
+ok thanks !  . 
